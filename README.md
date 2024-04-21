@@ -2,7 +2,8 @@
 
 ## Overview
 This Bash script provides a simple way to report the usage of various AWS resources such as S3 buckets, EC2 instances, Lambda functions, and IAM users. It utilizes the AWS Command Line Interface (CLI) to gather information about these resources and display them in the terminal.
-
+## Architecture
+![Teaser](./Architecture.jpg)
 ## Author
 - **Name:** **B.Saidachary**
 - **Date:** 21/04/2024
